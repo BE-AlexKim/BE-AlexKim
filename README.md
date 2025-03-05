@@ -34,4 +34,9 @@ Here are some ideas to get you started:
 ## ✈️ Framework 
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%2314354C.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
 
+## 🎥 Career
+- 2024.01-2024.09 주식회사 eMotiv 웹 서비스 팀 팀장
+- 2022.11-2024.01 주식회사 eMotiv 백엔드 개발자팀 팀원
+- 2022.03-2022.09 주식회사 The Join 백엔드 개발팀 팀원 
+
 
