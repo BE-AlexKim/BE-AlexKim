@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-링크드인%20KI%20HYUN%20KIM-c14438?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80-%EA%B8%B0%ED%98%84-476651351/)
 
 ## 💻 Programing Language 
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%2314354C.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="JAVA" src="https://img.shields.io/badge/Java%20-%2314354C.svg?&style=for-the-badge&logoColor=white"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%2314354C.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img alt="JAVA" src="https://img.shields.io/badge/Java%20-%2314354C.svg?&style=for-the-badge&logoColor=white"/>
 
