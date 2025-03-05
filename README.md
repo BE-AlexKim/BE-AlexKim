@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-안녕하세요 김기현입니다.
+# Hello People! I'm Kihyun 😄
+
+안녕하세요! 코드를 좋아하고 Java와 Kotlin으로 
+프로그래밍을 하는 김기현입니다 
+
+저는 프로그래밍과 같이 크리에이티브한 활동들을 좋아하며
+예술을 사랑하는 주니어 백엔드 개발자 입니다.
+
+## Contact 
+[![Naver Badge](https://img.shields.io/badge/-joy585@naver.com-c14438?style=flat-square&logo=Naver&logoColor=white&link=mailto:joy585@naver.com)]
+
+## Programing Language 
