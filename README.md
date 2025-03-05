@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
 
 # Hello People! I'm Kihyun 😄
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 예술을 사랑하는 주니어 백엔드 개발자 입니다.
 
 ## Contact 
-[![Naver Badge](https://img.shields.io/badge/-joy585@naver.com-c14438?style=flat-square&logo=Naver&logoColor=white&link=mailto:joy585@naver.com)]
+[![Naver Badge](https://img.shields.io/badge/-joy585@naver.com-c14438?style=flat-square&logo=Naver&logoColor=white&link=mailto:joy585@naver.com)](mailto:joy585@naver.com)
+[![LinkedIn]([https://img.shields.io/badge/김기현-476651351?style=flat-square&logo=LinkedIn))]
+
 
 ## Programing Language 
