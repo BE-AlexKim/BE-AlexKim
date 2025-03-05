@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 예술을 사랑하는 주니어 백엔드 개발자 입니다.
 
 ## 💬 Contact 
-[![Naver Badge](https://img.shields.io/badge/-joy585@naver.com-c14438?style=flat-square&logo=Naver&logoColor=white&link=mailto:joy585@naver.com)](mailto:joy585@naver.com)
+[![Naver Badge](https://img.shields.io/badge/-joy585@naver.com-8A2BE2?style=flat-square&logo=Naver&logoColor=white&link=mailto:joy585@naver.com)](mailto:joy585@naver.com)
 [![LinkedIn](https://img.shields.io/badge/-KI%20HYUN%20KIM-c14438?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EA%B9%80-%EA%B8%B0%ED%98%84-476651351/)
 
 ## 💻 Programing Language 
