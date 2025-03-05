@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello People! I'm Kihyun 😄
 
-## About Me 🌱
+## 🌱 About Me 
 
 안녕하세요! 코드를 좋아하고 Java와 Kotlin으로 
 프로그래밍을 하는 김기현입니다 
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 
 ## ✈️ Framework 
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%2314354C.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+
+
