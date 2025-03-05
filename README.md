@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 ## Contact 
 [![Naver Badge](https://img.shields.io/badge/-joy585@naver.com-c14438?style=flat-square&logo=Naver&logoColor=white&link=mailto:joy585@naver.com)](mailto:joy585@naver.com)
-[![LinkedIn]([https://img.shields.io/badge/김기현-476651351?style=flat-square&logo=LinkedIn))]
-
+[![LinkedIn](https://img.shields.io/badge/김기현-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/%EA%B9%80-%EA%B8%B0%ED%98%84-476651351/)
 
 ## Programing Language 
